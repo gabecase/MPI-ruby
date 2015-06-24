@@ -35,3 +35,6 @@ DEPENDENCIES
   rake (~> 10.4.2)
   rspec (~> 3.3.0)
   selenium-webdriver (~> 2.46.2)
+
+BUNDLED WITH
+   1.10.1
